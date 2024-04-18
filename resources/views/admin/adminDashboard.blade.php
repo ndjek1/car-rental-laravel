@@ -185,7 +185,7 @@
                                             </td>
 
                                             <td class="px-4 py-3 text-sm">
-                                                {{ $reservation->car->price_per_day * $reservation->days }} $
+                                                {{ $reservation->car->price_per_day * $reservation->days }} UGX
                                             </td>
 
 
