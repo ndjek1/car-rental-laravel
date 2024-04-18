@@ -1,10 +1,10 @@
 # Car Rental Laravel Project
 
-This is a car rental project developed for the graduation Project. It is built using the Laravel framework and provides a web application for managing car rental operations.
+This is a car rental mamangement project t. It is built using the Laravel framework and provides a web application for managing car rental operations.
 
 ## Live website:
 
-- check live website [here](https://realrentcar.galdi.dev/)
+- check live website 
 
 ## Features
 
@@ -13,23 +13,9 @@ This is a car rental project developed for the graduation Project. It is built u
 -   Rental Booking and Management
 -   Admin Panel for managing cars, bookings, and users
 
-
-## Interfaces:
-
-- User
-
-![Alt text](public/user_interface.gif)
-
-- Admin
-
-![Alt text](public/admin_interface.gif)
-
-
-
-
 ## Installation
 
-1. Clone the repository: https://github.com/Mohamed-Galdi/RealRentCar
+1. Clone the repository: [https://github.com/ndjek1/car-rental-laravel.git]
 
 2. Navigate to the project directory: `cd RealRentCar`
 
@@ -67,5 +53,5 @@ We welcome contributions to enhance the project! If you find any issues or have 
 
 ## Authors
 
--   Mohamed Galdi (contact.galdi@gmail.com)
--   Mohamed Chtitihi (mohamedchtitihi@gmail.com)
+-   Ndjekornom Victoire (vndjekornom@gmail.com)
+  
